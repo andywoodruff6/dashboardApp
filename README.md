@@ -1,1 +1,3 @@
-# dashboardApp
+# Dashboard App
+
+## By: TheNewBadger
